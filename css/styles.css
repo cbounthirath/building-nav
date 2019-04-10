@@ -1,4 +1,4 @@
-.box{
+/* .box{
     height: 100px;
     width: 200px;
  }
@@ -35,4 +35,34 @@
     background-color: orange;
     float: right;
     clear: right;
+ } */
+
+
+
+ /* Nav styles */
+ .main-nav {
+    height: 75px;
+    background-color: #333;
  }
+ 
+ .logo {
+    height: 56px;
+    padding: 10px;
+
+ }
+
+ .nav-list {
+    float: right;
+    list-style-type: none;
+ }
+
+ li {
+    color: #fff;
+    float: left;
+    padding: 14px 16px 18PX;
+ }
+
+ .center {
+    text-align: center;
+ }
+ /* End Nav Styles */
